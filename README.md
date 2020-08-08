@@ -28,8 +28,6 @@
 
 <br>
 
----
-
 <!-- <img align="left" alt="ACd3v's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ACd3v&show_icons=true&hide_border=true" /> -->
 
 [twitter]: https://twitter.com/AlexCalabrese13
