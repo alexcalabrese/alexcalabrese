@@ -1,6 +1,6 @@
 ### Ciao a tutti, mi chiamo Alex - aka ACd3v 👋
 
-## Sono uno sviluppatore back end.
+## Sono uno sviluppatore backend.
 
 - 🔭 Sto lavorando su un progetto personale con Laravel e VueJs
 - 🌱 Studio continuamente
