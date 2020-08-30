@@ -6,7 +6,7 @@
 - 🌱 Studio continuamente
 - 👯 Sto cercando un Frontend developer con cui collaborare
 - 🥅 Obbiettivo del 2020: Contribuire a qualche progetto Open Source
-- ⚡ Curiosità: Adoro la musica e suono il pianoforte
+- ⚡ Curiosità: Adoro la musica
 
 ### Puoi trovarmi su:
 
