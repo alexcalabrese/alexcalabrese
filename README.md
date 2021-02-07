@@ -5,7 +5,7 @@
 - 🔭 Sto lavorando su un progetto personale con Laravel e VueJs
 - 🌱 Studio continuamente
 - 👯 Sto cercando un Frontend developer con cui collaborare
-- 🥅 Obbiettivo del 2020: Contribuire a qualche progetto Open Source
+- 🥅 Obbiettivo del 2021: Contribuire a qualche progetto Open Source
 - ⚡ Curiosità: Adoro la musica
 
 ### Puoi trovarmi su:
