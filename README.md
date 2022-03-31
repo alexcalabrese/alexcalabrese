@@ -4,8 +4,6 @@
 
 - 🔭 Sto lavorando su un progetto personale con Laravel e VueJs
 - 🌱 Studio continuamente
-- 👯 Cerco un Designer con cui collaborare
-- 🥅 Obbiettivo del 2021: Contribuire a qualche progetto Open Source
 - ⚡ Curiosità: Adoro la musica
 
 ### Puoi trovarmi su:
