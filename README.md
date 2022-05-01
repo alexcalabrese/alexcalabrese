@@ -1,13 +1,13 @@
 ### Hi there, nice to meet you 👋
 
-I'm Alex Calabrese, I'm a Computer Science student at University of Milano Bicocca in Milan.
+I'm Alex Calabrese, I'm a Computer Science student at the University of Milano Bicocca in Milan.
 
 ### 🎓 Education:
 - At 2° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
 - Following a Master in `Blockchain Development`.
 
 ### 📌 Projects
-- [MyMoney](https://github.com/alexcalabrese/MyMoney): Take back control fo your money
+- [MyMoney](https://github.com/alexcalabrese/MyMoney): Take back control of your money
 - [OpenPizza](https://github.com/alexcalabrese/OpenPizza): Order manager to help Pizzerias during the COVID
 - [IncidentiApp](https://github.com/alexcalabrese/IncidentiApp): High School final project
 
