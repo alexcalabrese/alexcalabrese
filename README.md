@@ -8,6 +8,7 @@ I'm Alex Calabrese, I'm a Computer Science student at the University of Milano B
 
 ### 📌 Projects
 - [MyMoney](https://github.com/alexcalabrese/MyMoney): Take back control of your money
+- [Distributed_systems_project](https://github.com/alexcalabrese/Distributed_systems_project): Bank System created for Distributed System exam
 - [OpenPizza](https://github.com/alexcalabrese/OpenPizza): Order manager to help Pizzerias during the COVID
 - [IncidentiApp](https://github.com/alexcalabrese/IncidentiApp): High School final project
 
