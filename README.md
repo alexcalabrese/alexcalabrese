@@ -3,7 +3,7 @@
 I'm Alex Calabrese, I'm a Computer Science student at the University of Milano Bicocca in Milan.
 
 ### 🎓 Education:
-- At 2° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
+- At 3° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
 - Following a Master in `Blockchain Development`.
 
 ### 📌 Projects
