@@ -8,6 +8,7 @@ I'm Alex Calabrese, I'm a Computer Science student at the University of Milano B
 
 ### 📌 Projects
 - [Start Funding](https://github.com/alexcalabrese/start-funding-app): Algorand Crowdfunding DApp
+- [techResume](https://github.com/alexcalabrese/techResume): Resume for Software Engineers 👨🏻‍💻
 - [MyMoney](https://github.com/alexcalabrese/MyMoney): Take back control of your money
 - [Distributed_systems_project](https://github.com/alexcalabrese/Distributed_systems_project): Bank System created for Distributed System exam
 - [OpenPizza](https://github.com/alexcalabrese/OpenPizza): Order manager to help Pizzerias during the COVID
