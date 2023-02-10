@@ -1,6 +1,8 @@
 ### Hi there, nice to meet you 👋
 
-I'm Alex Calabrese, I'm a Computer Science student at the University of Milano Bicocca in Milan.
+
+
+I'm Alex Calabrese, I'm a Cloud Solution Architect Intern at @Microsoft and Computer Science student.
 
 ### 🎓 Education:
 - At 3° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
