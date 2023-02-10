@@ -2,7 +2,7 @@
 
 
 
-I'm Alex Calabrese, I'm a Cloud Solution Architect Intern at @Microsoft and Computer Science student.
+I'm Alex Calabrese, I'm a **Cloud Solution Architect Intern at @Microsoft** and Computer Science student.
 
 ### 🎓 Education:
 - At 3° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
