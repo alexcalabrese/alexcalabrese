@@ -1,26 +1,32 @@
-### Hi there, nice to meet you 👋
+### Hello there 👋
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=alexcalabrese%2FREADME.md&countColor=%23263759)
+
+I'm Alex Calabrese, **Cloud Customer Engineer at @Google**.
+
+```python
+#!/usr/bin/python
+
+class CloudEngineer:
+
+    def __init__(self):
+        self.name = "Alex Calabrese"
+        self.role = "Cloud Engineer"
+        self.language_spoken = ["it_IT", "en_EN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-
-I'm Alex Calabrese, I'm a **Cloud Solution Architect Intern at @Microsoft** and Computer Science student.
-
-### 🎓 Education:
-- At 3° year of Bachelor’s degree in `Computer Science` at `Università Milano Bicocca`.
-- Following a Master in `Blockchain Development`.
+me = CloudEngineer()
+me.say_hi()
+```
 
 ### 📌 Projects
-- [Start Funding](https://github.com/alexcalabrese/start-funding-app): Algorand Crowdfunding DApp
 - [techResume](https://github.com/alexcalabrese/techResume): Resume for Software Engineers 👨🏻‍💻
+- [walk-a-mib](https://github.com/walk-a-mib/app): Android app that helps you navigate within the enclosed spaces of your university campus
+- [Start Funding](https://github.com/alexcalabrese/start-funding-app): Algorand Crowdfunding DApp
 - [MyMoney](https://github.com/alexcalabrese/MyMoney): Take back control of your money
-- [Distributed_systems_project](https://github.com/alexcalabrese/Distributed_systems_project): Bank System created for Distributed System exam
-- [OpenPizza](https://github.com/alexcalabrese/OpenPizza): Order manager to help Pizzerias during the COVID
-<!--- - [IncidentiApp](https://github.com/alexcalabrese/IncidentiApp): High School final project -->
-
-### 👨‍💻 About me:
-- 👷🏻‍♂️ Worked as a FullStack Web Developer
-- 🏋🏻‍♂️ Gym addicted
-- 📚 I'm currently reading Clean Code, by Uncle Bob Martin
-- 🎵 I listen a lot of music
 
 ### ✉️ Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-calabrese)
